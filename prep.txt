@@ -6,6 +6,9 @@ C++
 - lambda function
 - smart pointers
 - efficient data alignment in struct
+- static type variable in class and class size
+- virtual function declarations
+- r value and l value in c++
 
 OS
 - virtual memory
@@ -19,3 +22,7 @@ design
 - write a wrapper function which calls malloc for 64 byte aligned data, 
   it should return address which is a multiple of 64,
   it should be also be able to call free
+
+DSA
+- radix sort using linked list
+- polynomial manipulation using linked list
